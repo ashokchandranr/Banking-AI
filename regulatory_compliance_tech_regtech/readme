@@ -1,0 +1,12 @@
+# Regulatory Compliance & RegTech
+
+This collection focuses on **Using AI for automated KYC, bias detection in lending, and regulatory report parsing.**.
+
+## Notebooks
+
+- 01_automated_kyc_document_classification.ipynb
+- 02_regulatory_report_parsing_nlp.ipynb
+- 03_compliance_breach_detection_oss_logs.ipynb
+- 04_fair_lending_bias_detection.ipynb
+- 05_insider_trading_pattern_recognition.ipynb
+- 06_gdpr_pii_data_masking_ai.ipynb

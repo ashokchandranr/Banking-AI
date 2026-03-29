@@ -1,0 +1,12 @@
+# Wealth Management & Portfolio Optimization
+
+This collection focuses on **Applying optimization techniques to asset allocation, robo-advising, and retirement planning.**.
+
+## Notebooks
+
+- 01_markowitz_mean_variance_optimization.ipynb
+- 02_black_litterman_asset_allocation.ipynb
+- 03_risk_parity_portfolio_construction.ipynb
+- 04_goal_based_investment_simulations.ipynb
+- 05_tax_loss_harvesting_strategy.ipynb
+- 06_retirement_withdrawal_rate_optimization.ipynb

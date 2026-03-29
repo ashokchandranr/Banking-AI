@@ -1,0 +1,12 @@
+# Conversational Banking & Customer Service
+
+This collection focuses on **Leveraging NLP and voice AI to improve customer support and banking interactions.**.
+
+## Notebooks
+
+- 01_intent_classification_banking_queries.ipynb
+- 02_voice_biometrics_authentication.ipynb
+- 03_sentiment_analysis_call_center_transcripts.ipynb
+- 04_automated_faq_retrieval_rag.ipynb
+- 05_churn_risk_detection_from_chats.ipynb
+- 06_customer_service_triage_optimization.ipynb

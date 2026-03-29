@@ -1,0 +1,12 @@
+# Cybersecurity Threat Detection
+
+This collection focuses on **Protecting financial infrastructure from DDoS attacks, phishing, and unauthorized access.**.
+
+## Notebooks
+
+- 01_ddos_attack_detection_network_traffic.ipynb
+- 02_phishing_email_classification_nlp.ipynb
+- 03_unauthorized_access_behavioral_biometrics.ipynb
+- 04_zero_day_threat_anomaly_detection.ipynb
+- 05_malware_file_signature_clustering.ipynb
+- 06_endpoint_security_event_scoring.ipynb

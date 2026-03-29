@@ -1,0 +1,12 @@
+# Retail Loan & Mortgage Approval
+
+This collection focuses on **Automating mortgage and loan underwriting while managing prepayment and default risks.**.
+
+## Notebooks
+
+- 01_mortgage_default_risk_prediction.ipynb
+- 02_automated_underwriting_decision_tree.ipynb
+- 03_prepayment_risk_regression.ipynb
+- 04_home_appraisal_value_estimation.ipynb
+- 05_sme_loan_approval_scoring.ipynb
+- 06_debt_to_income_ratio_impact_analysis.ipynb

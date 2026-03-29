@@ -1,0 +1,12 @@
+# Market Trading & Algorithmic Signals
+
+This collection focuses on **Analyzing market data to generate trading signals, forecast volatility, and model yield curves.**.
+
+## Notebooks
+
+- 01_stock_price_volatility_forecasting.ipynb
+- 02_etf_arbitrage_signal_detection.ipynb
+- 03_news_sentiment_trading_signals.ipynb
+- 04_limit_order_book_liquidity_prediction.ipynb
+- 05_cryptocurrency_price_spike_detection.ipynb
+- 06_yield_curve_forecasting_pca.ipynb

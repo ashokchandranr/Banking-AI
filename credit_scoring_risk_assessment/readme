@@ -1,0 +1,12 @@
+# Credit Scoring & Risk Assessment
+
+This collection focuses on **Evaluating borrower creditworthiness and modeling financial risks like probability of default.**.
+
+## Notebooks
+
+- 01_retail_credit_scoring_logistic_regression.ipynb
+- 02_corporate_credit_risk_multiclass.ipynb
+- 03_probability_of_default_estimation.ipynb
+- 04_stress_testing_scenario_modeling.ipynb
+- 05_loss_given_default_regression.ipynb
+- 06_exposure_at_default_forecasting.ipynb

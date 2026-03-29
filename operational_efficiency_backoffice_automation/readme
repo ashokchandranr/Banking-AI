@@ -1,0 +1,12 @@
+# Operational Efficiency & Backoffice Automation
+
+This collection focuses on **Optimizing banking operations using OCR, process mining, and automated reconciliation.**.
+
+## Notebooks
+
+- 01_invoice_extraction_ocr_nlp.ipynb
+- 02_customer_onboarding_process_bottlenecks.ipynb
+- 03_backoffice_ticket_priority_classification.ipynb
+- 04_liquidity_forecasting_corporate_treasury.ipynb
+- 05_automated_data_reconciliation_clustering.ipynb
+- 06_resource_allocation_branch_network.ipynb

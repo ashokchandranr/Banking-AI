@@ -1,0 +1,12 @@
+# Fraud Detection & AML Analytics
+
+This collection focuses on **Detecting financial crimes, credit card fraud, and money laundering using anomaly detection and graph-based approaches.**.
+
+## Notebooks
+
+- 01_credit_card_fraud_classification.ipynb
+- 02_anti_money_laundering_graph_analytics.ipynb
+- 03_synthetic_identity_fraud_detection.ipynb
+- 04_transaction_anomaly_isolation_forest.ipynb
+- 05_benfords_law_for_audit_analytics.ipynb
+- 06_insurance_claim_fraud_scoring.ipynb

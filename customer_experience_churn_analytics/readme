@@ -1,0 +1,12 @@
+# Customer Experience & Churn Analytics
+
+This collection focuses on **Understanding customer behavior, predicting churn, and personalizing financial services.**.
+
+## Notebooks
+
+- 01_subscriber_churn_prediction_behavioral.ipynb
+- 02_sentiment_analysis_customer_reviews.ipynb
+- 03_customer_segmentation_usage_profiles.ipynb
+- 04_next_best_action_recommendation.ipynb
+- 05_clv_prediction_high_value_customers.ipynb
+- 06_nps_driver_analysis_regression.ipynb
